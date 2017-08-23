@@ -72,3 +72,4 @@ title('Temperature within the LU decomposition method')
 xlabel('X')
 ylabel('Temperature')
 
+end
