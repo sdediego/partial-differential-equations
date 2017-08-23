@@ -63,3 +63,4 @@ title('Temperature within the Crank-Nicholson method')
 xlabel('X')
 ylabel('Temperature')
 
+end
